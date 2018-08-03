@@ -1,0 +1,22 @@
+{
+  "name": "tiddly-films",
+  "version": "1.0.0",
+  "description": "* Mount Disk\r * To make it work, make sure to have data folder with proper structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ribicnejc/tiddly-films.git"
+  },
+  "author": "nejcribic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ribicnejc/tiddly-films/issues"
+  },
+  "homepage": "https://github.com/ribicnejc/tiddly-films#readme",
+  "dependencies": {
+    "video.js": "^7.1.0"
+  }
+}
